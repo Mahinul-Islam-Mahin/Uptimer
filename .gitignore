@@ -112,3 +112,4 @@ db.json
 yarn.lock
 .cmd
 package-lock.json
+.qodo
